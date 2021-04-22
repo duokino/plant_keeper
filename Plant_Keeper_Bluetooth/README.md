@@ -13,6 +13,9 @@ Proses penyiraman juga boleh dilakukan secara manual dengan kawalan dari android
 
 ![PlantKeeperBluetooth](/Plant_Keeper_Bluetooth/Image/01.jpg)
 
+Apps boleh download di PlayStore
+(https://play.google.com/store/apps/details?id=appinventor.ai_mamatkkt.Watering_Plant)
+
 Apabila sistem utama tidak mengesan sebarang sambungan dengan peranti android untuk beberapa ketika, sistem akan berubah kepada mode Auto secara automatik.
 
 Komponen yang digunakan adalah:
