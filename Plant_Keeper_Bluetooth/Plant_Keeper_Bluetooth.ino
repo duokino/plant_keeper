@@ -13,18 +13,21 @@ LiquidCrystal_I2C lcd(0x27, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);  //I2C pins decla
 
 #define moistpin A0     //Capacitive Soil Moisture Sensor
 
-#define echopin 5      //Sensor for water tank level
+//Sensor for water tank level
+#define echopin 5
 #define trigpin 6
 
+//edit this value accordingly
 #define mintank 50      //lowest level  - 50cm tank water level from sensor
 #define maxtank 10      //highest level - 10cm tank water level from sensor
-#define tankLOW 40      //40cm from sensor is the minimum water level accept
+#define tankLOW 40      //40cm from sensor is the minimum water level accepted
 
 #define DHTPIN 7        //pin D7 sensor for temperatur and humidity
 #define DHTTYPE DHT11
 
 DHT dht(DHTPIN, DHTTYPE);
 
+//edit this value accordingly
 #define moistmin 900    //soil moisture minimum treshold
 #define moistmax 650    //soil moisture maximum treshold
 #define moistlevel 750  //moisture level for soil to be watered
