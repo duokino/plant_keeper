@@ -11,7 +11,7 @@ Sistem ini boleh berfungsi secara automatik dengan menyiram tanaman sekiranya ke
 
 Proses penyiraman juga boleh dilakukan secara manual dengan kawalan dari android menggunakan apps yang boleh didapati di PlayStore
 
-![LinerBot](/Plant_Keeper_Bluetooth/Image/01.jpg)
+![PlantKeeperBluetooth](/Plant_Keeper_Bluetooth/Image/01.jpg)
 
 Apabila sistem utama tidak mengesan sebarang sambungan dengan peranti android untuk beberapa ketika, sistem akan berubah kepada mode Auto secara automatik.
 
@@ -26,8 +26,8 @@ Komponen yang digunakan adalah:
 - 5V Power Regulator Circuit
 - Water Pump
 
-![LinerBot](/Plant_Keeper_Bluetooth/Image/photo02.jpg)
+![PlantKeeperBluetooth](/Plant_Keeper_Bluetooth/Image/photo02.jpg)
 
-![LinerBot](/Plant_Keeper_Bluetooth/Image/photo01.jpg)
+![PlantKeeperBluetooth](/Plant_Keeper_Bluetooth/Image/photo01.jpg)
 
-![LinerBot](/Plant_Keeper_Bluetooth/Image/photo03.jpg)
+![PlantKeeperBluetooth](/Plant_Keeper_Bluetooth/Image/photo03.jpg)
