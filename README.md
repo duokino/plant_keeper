@@ -1,4 +1,4 @@
-# Plant_Keeper
+# Plant Keeper
 Projek ini membina Sistem Kawalan Automasi Dan Pemantauan Tanaman menggunakan sambungan Bluetooth dengan peranti android.
 
 Bacaan yang dipantau adalah :
